@@ -21,5 +21,7 @@ or use the app icon that is in your app library.
 
 # Commands
 Arrow Right: Move Right
+
 Arrow Left: Move Left
+
 Space: Shoot
