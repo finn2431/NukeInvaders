@@ -3,25 +3,25 @@ A Little game, inspired from space invaders to run in a terminal or to learn the
 # How To Install?
 You can install this program by cloning this repositery:
 
-git clone https://github.com/finn2431/NukeInvaders
+_git clone https://github.com/finn2431/NukeInvaders_
 
 then, you switch in the repositery by the following command:
 
-cd NukeInvaders
+_cd NukeInvaders_
 
 after that, you can run the install.sh script:
 
-./install.sh
+_./install.sh_
 
 now, you can type 
 
-python3 main.py
+_python3 main.py_
 
 or use the app icon that is in your app library.
 
 # Commands
-Arrow Right: Move Right
+__Arrow Right:__ Move Right
 
-Arrow Left: Move Left
+__Arrow Left:__ Move Left
 
-Space: Shoot
+__Space:__ Shoot
